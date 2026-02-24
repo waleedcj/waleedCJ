@@ -20,10 +20,6 @@
 
 </div>
 
----
-
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=waleedcj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" />
-
 ### 👁️ The Breakdown
 
 ```yaml
@@ -51,7 +47,7 @@ mindset:  "Code once, deploy everywhere — chain included."
 ## 🚀 Featured Project
 
 <a href="https://github.com/waleedcj/nativeMotion">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waleedcj&repo=nativeMotion&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+  <img src="https://cdn.jsdelivr.net/gh/waleedcj/walid-assets/nmlogo.png" width="64" height="64" />
 </a>
 
 > Production-ready React Native animation components — buttery smooth, drop-in motion without the boilerplate. Built for devs who care about craft.
