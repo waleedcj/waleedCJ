@@ -20,7 +20,7 @@
 
 </div>
 
-### 👁️ The Breakdown
+### The Breakdown
 
 ```yaml
 name:     Walid Memon
@@ -44,7 +44,7 @@ mindset:  "Code once, deploy everywhere — chain included."
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
 <a href="https://github.com/waleedcj/nativeMotion">
   <img src="https://cdn.jsdelivr.net/gh/waleedcj/walid-assets/nmlogo.png" width="64" height="64" />
