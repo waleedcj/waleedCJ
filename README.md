@@ -58,6 +58,4 @@ mindset:  "Code once, deploy everywhere — chain included."
 
 ![Profile Views](https://komarev.com/ghpvc/?username=waleedcj&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
-*"I don't just write code — I architect experiences, on-chain and off."*
-
 </div>
